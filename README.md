@@ -122,7 +122,7 @@ eas build --platform android
 
 ## 🧑‍💻 Contributors
 
-- [Dipayansrkr](https://github.com/Dipayansrkr) — Developer & Project Lead
+- [Kaviya](https://github.com/Kavi2509) — Developer & Project Lead
 
 ---
 
